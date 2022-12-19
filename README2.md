@@ -13,3 +13,7 @@ cica text
 ## How to contribute
 
 There are some simple text.
+
+# Copyright
+
+copyright stuff
