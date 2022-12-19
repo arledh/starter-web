@@ -17,3 +17,5 @@ There are some simple text.
 # Copyright
 
 copyright stuff
+
+# Change on master too
